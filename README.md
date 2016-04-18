@@ -3,7 +3,7 @@
 This **Customadmin plugin** for [Grav](http://github.com/getgrav/grav) is, in fact, only few lines that add a CSS and a JS file to the [Grav Admin panel](https://github.com/getgrav/grav-plugin-admin).
 The files are included with the lower priority in order to let you simply override everything you need to customize.
 
-![](assets/customadmin-dashboard.png)
+![](assets/customadmin_dashboard.png)
 
 # Installation
 

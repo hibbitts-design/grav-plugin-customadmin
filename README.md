@@ -16,4 +16,10 @@ user/plugins/
 
 # Usage
 
-Update the files user/plugin/customadmin/customadmin.css and user/plugin/customadmin/customadmin.js as you want.
+Update this two files to customize the admin panel as you want :
+```
+user/plugins/customadmin/customadmin.css
+```
+```
+user/plugins/customadmin/customadmin.js
+```

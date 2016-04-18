@@ -11,7 +11,7 @@ First ensure you are running the latest **Grav 1.0.10 or later** and the latest 
 
 Put the content of this repository in a folder called "customadmin" in :
 ```
-user/plugin/
+user/plugins/
 ```
 
 # Usage
